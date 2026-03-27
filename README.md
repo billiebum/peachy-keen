@@ -29,7 +29,7 @@ Peachy Keen is a warm, soft-toned WordPress theme designed for personal blogs, w
 
 ## 📝 Notes
 
-This theme was created as a personal project and refined for usability and consistency. It focuses on simplicity, warmth, and readability.
+This theme was created initially as a fanlisting layout and refined for usability and consistency. It focuses on simplicity, warmth, and readability.
 
 ---
 
